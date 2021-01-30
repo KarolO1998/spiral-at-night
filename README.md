@@ -5,4 +5,4 @@
 - [x] Include comments before each element or section of the page
 
 ## Submission
-Deployed [URL](file:///C:/Users/karol/spiral-at-night/index.html)      Github Repo [URL](https://github.com/KarolO1998/spiral-at-night)
+Deployed [URL](https://karolo1998.github.io/spiral-at-night/)      Github Repo [URL](https://github.com/KarolO1998/spiral-at-night)
